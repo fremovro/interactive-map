@@ -1,7 +1,7 @@
 # Интерактивная карта офисного помещения
 
 <div align="center">
-    <img src="/result.jpg" width="50%"</img> 
+    <img src="/result.jpg" width="100%"</img> 
 </div>
 
 Представлен отрывок кода, отвечающий за администрирование. 
