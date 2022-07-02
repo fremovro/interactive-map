@@ -1,5 +1,8 @@
 # Интерактивная карта офисного помещения
-![Screenshot](result.png)
+
+<div align="center">
+    <img src="/result.jpg" width="400px"</img> 
+</div>
 
 Представлен отрывок кода, отвечающий за администрирование. 
 
